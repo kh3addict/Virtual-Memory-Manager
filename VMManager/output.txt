@@ -1,0 +1,3122 @@
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size1
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at16916Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size2
+Translation lookaisde buffer size2
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at62493Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size3
+Translation lookaisde buffer size3
+Translation lookaisde buffer size3
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at30198Data at the physical Address is 29
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size4
+Translation lookaisde buffer size4
+Translation lookaisde buffer size4
+Translation lookaisde buffer size4
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at53683Data at the physical Address is 108
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size5
+Translation lookaisde buffer size5
+Translation lookaisde buffer size5
+Translation lookaisde buffer size5
+Translation lookaisde buffer size5
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at40185Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size6
+Translation lookaisde buffer size6
+Translation lookaisde buffer size6
+Translation lookaisde buffer size6
+Translation lookaisde buffer size6
+Translation lookaisde buffer size6
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at28781Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size7
+Translation lookaisde buffer size7
+Translation lookaisde buffer size7
+Translation lookaisde buffer size7
+Translation lookaisde buffer size7
+Translation lookaisde buffer size7
+Translation lookaisde buffer size7
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at24462Data at the physical Address is 23
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size8
+Translation lookaisde buffer size8
+Translation lookaisde buffer size8
+Translation lookaisde buffer size8
+Translation lookaisde buffer size8
+Translation lookaisde buffer size8
+Translation lookaisde buffer size8
+Translation lookaisde buffer size8
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at48399Data at the physical Address is 67
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size9
+Translation lookaisde buffer size9
+Translation lookaisde buffer size9
+Translation lookaisde buffer size9
+Translation lookaisde buffer size9
+Translation lookaisde buffer size9
+Translation lookaisde buffer size9
+Translation lookaisde buffer size9
+Translation lookaisde buffer size9
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at64815Data at the physical Address is 75
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size10
+Translation lookaisde buffer size10
+Translation lookaisde buffer size10
+Translation lookaisde buffer size10
+Translation lookaisde buffer size10
+Translation lookaisde buffer size10
+Translation lookaisde buffer size10
+Translation lookaisde buffer size10
+Translation lookaisde buffer size10
+Translation lookaisde buffer size10
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at18295Data at the physical Address is -35
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size11
+Translation lookaisde buffer size11
+Translation lookaisde buffer size11
+Translation lookaisde buffer size11
+Translation lookaisde buffer size11
+Translation lookaisde buffer size11
+Translation lookaisde buffer size11
+Translation lookaisde buffer size11
+Translation lookaisde buffer size11
+Translation lookaisde buffer size11
+Translation lookaisde buffer size11
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at12218Data at the physical Address is 11
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size12
+Translation lookaisde buffer size12
+Translation lookaisde buffer size12
+Translation lookaisde buffer size12
+Translation lookaisde buffer size12
+Translation lookaisde buffer size12
+Translation lookaisde buffer size12
+Translation lookaisde buffer size12
+Translation lookaisde buffer size12
+Translation lookaisde buffer size12
+Translation lookaisde buffer size12
+Translation lookaisde buffer size12
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at22760Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size13
+Translation lookaisde buffer size13
+Translation lookaisde buffer size13
+Translation lookaisde buffer size13
+Translation lookaisde buffer size13
+Translation lookaisde buffer size13
+Translation lookaisde buffer size13
+Translation lookaisde buffer size13
+Translation lookaisde buffer size13
+Translation lookaisde buffer size13
+Translation lookaisde buffer size13
+Translation lookaisde buffer size13
+Translation lookaisde buffer size13
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at57982Data at the physical Address is 56
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size14
+Translation lookaisde buffer size14
+Translation lookaisde buffer size14
+Translation lookaisde buffer size14
+Translation lookaisde buffer size14
+Translation lookaisde buffer size14
+Translation lookaisde buffer size14
+Translation lookaisde buffer size14
+Translation lookaisde buffer size14
+Translation lookaisde buffer size14
+Translation lookaisde buffer size14
+Translation lookaisde buffer size14
+Translation lookaisde buffer size14
+Translation lookaisde buffer size14
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at27966Data at the physical Address is 27
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+Translation lookaisde buffer size15
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at54894Data at the physical Address is 53
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at38929Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at32865Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at64243Data at the physical Address is -68
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at2315Data at the physical Address is 66
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at64454Data at the physical Address is 62
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at55041Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at18633Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at14557Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at61006Data at the physical Address is 59
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62615Physical Address is 407
+37
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at7591Data at the physical Address is 105
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at64747Data at the physical Address is 58
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at6727Data at the physical Address is -111
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at32315Data at the physical Address is -114
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at60645Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at6308Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at45688Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at969Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at40891Data at the physical Address is -18
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at49294Data at the physical Address is 48
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at41118Data at the physical Address is 40
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at21395Data at the physical Address is -28
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at6091Data at the physical Address is -14
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at32541Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at17665Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at3784Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28718Physical Address is 1326
+28
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at59240Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 40178Physical Address is 1266
+39
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at60086Data at the physical Address is 58
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at42252Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at44770Data at the physical Address is 43
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at22514Data at the physical Address is 21
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at3067Data at the physical Address is -2
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at15757Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at31649Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at10842Data at the physical Address is 10
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at43765Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at33405Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at44954Data at the physical Address is 43
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at56657Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at5003Data at the physical Address is -30
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at50227Data at the physical Address is 12
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at19358Data at the physical Address is 18
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at36529Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at10392Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at58882Data at the physical Address is 57
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at5129Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at58554Data at the physical Address is 57
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58584Physical Address is 15576
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at27444Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58982Physical Address is 14950
+57
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at51476Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 6796Physical Address is 6796
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21311Physical Address is 9023
+-49
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at30705Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at28964Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41003Physical Address is 8747
+10
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at20259Data at the physical Address is -56
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 57857Physical Address is 3073
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at63258Data at the physical Address is 61
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36374Physical Address is 14358
+35
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at692Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at43121Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at48128Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at34561Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49213Physical Address is 8509
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at36922Data at the physical Address is 36
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59162Physical Address is 10266
+57
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at50552Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 17866Physical Address is 9930
+17
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at18145Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at3884Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at54388Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at42932Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at46919Data at the physical Address is -47
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58892Physical Address is 14860
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at8620Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at38336Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64357Physical Address is 4965
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at23387Data at the physical Address is -42
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at42632Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at15913Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15679Physical Address is 11839
+79
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22501Physical Address is 11493
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at37540Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at5527Data at the physical Address is 101
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at63921Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62716Physical Address is 508
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32874Physical Address is 4202
+32
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64390Physical Address is 4998
+62
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at63101Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at61802Data at the physical Address is 60
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at19648Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 29031Physical Address is 16487
+89
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 44981Physical Address is 13237
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28092Physical Address is 3516
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at9448Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 44744Physical Address is 11208
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at61496Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at31453Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at60746Data at the physical Address is 59
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 12199Physical Address is 2727
+-23
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at62255Data at the physical Address is -53
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at21793Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at26544Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at14964Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at41462Data at the physical Address is 40
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at56089Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at52038Data at the physical Address is 50
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at47982Data at the physical Address is 46
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at59484Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at50924Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at6942Data at the physical Address is 6
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at34998Data at the physical Address is 34
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at27069Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at51926Data at the physical Address is 50
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 60645Physical Address is 7397
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 43181Physical Address is 17581
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at10559Data at the physical Address is 79
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at4664Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at28578Data at the physical Address is 27
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59516Physical Address is 25980
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38912Physical Address is 3840
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at63562Data at the physical Address is 62
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64846Physical Address is 2126
+63
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at62938Data at the physical Address is 61
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at27194Data at the physical Address is 26
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28804Physical Address is 1412
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 61703Physical Address is 22279
+65
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 10998Physical Address is 12534
+10
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at6596Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at37721Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at43430Data at the physical Address is 42
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22692Physical Address is 2980
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62971Physical Address is 28667
+126
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at47125Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at52521Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 34646Physical Address is 18006
+33
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32889Physical Address is 4217
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at13055Data at the physical Address is -65
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at65416Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62869Physical Address is 28565
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at57314Data at the physical Address is 55
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at12659Data at the physical Address is 92
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at14052Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32956Physical Address is 4284
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49273Physical Address is 8569
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 50352Physical Address is 14000
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at49737Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at15555Data at the physical Address is 48
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at47475Data at the physical Address is 92
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at15328Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 34621Physical Address is 17981
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at51365Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32820Physical Address is 4148
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at48855Data at the physical Address is -75
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 12224Physical Address is 2752
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at2035Data at the physical Address is -4
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 60539Physical Address is 7291
+30
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at14595Data at the physical Address is 64
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 13853Physical Address is 31261
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at24143Data at the physical Address is -109
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15216Physical Address is 32368
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at8113Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22640Physical Address is 2928
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32978Physical Address is 4306
+32
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 39151Physical Address is 4079
+59
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 19520Physical Address is 22592
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at58141Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63959Physical Address is 21975
+117
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at53040Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at55842Data at the physical Address is 54
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 585Physical Address is 17225
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51229Physical Address is 32541
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64181Physical Address is 4533
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 54879Physical Address is 3679
+-105
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at28210Data at the physical Address is 27
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 10268Physical Address is 14620
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15395Physical Address is 31779
+8
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 12884Physical Address is 30292
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at2149Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at53483Data at the physical Address is 58
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59606Physical Address is 26070
+58
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 14981Physical Address is 24709
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at36672Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at23197Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36518Physical Address is 14502
+35
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at13361Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at19810Data at the physical Address is 19
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at25955Data at the physical Address is 88
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62678Physical Address is 470
+61
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 26021Physical Address is 36773
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at29409Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at38111Data at the physical Address is 55
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58573Physical Address is 15565
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at56840Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41306Physical Address is 24922
+40
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 54426Physical Address is 19354
+53
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 3617Physical Address is 10017
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 50652Physical Address is 18652
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41452Physical Address is 25068
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20241Physical Address is 16657
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 31723Physical Address is 12267
+-6
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 53747Physical Address is 1011
+124
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28550Physical Address is 28038
+27
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23402Physical Address is 20586
+22
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at21205Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 56181Physical Address is 25205
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at57470Data at the physical Address is 56
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at39933Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 34964Physical Address is 26772
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at24781Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at41747Data at the physical Address is -60
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62564Physical Address is 356
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58461Physical Address is 15453
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at20858Data at the physical Address is 20
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49301Physical Address is 8597
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at40572Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at23840Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at35278Data at the physical Address is 34
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62905Physical Address is 28601
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 56650Physical Address is 13386
+55
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at11149Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38920Physical Address is 3848
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23430Physical Address is 20614
+22
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 57592Physical Address is 38136
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at3080Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 6677Physical Address is 6677
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 50704Physical Address is 26128
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51883Physical Address is 27307
+-86
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62799Physical Address is 28495
+83
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at20188Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at1245Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 12220Physical Address is 2748
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at17602Data at the physical Address is 17
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28609Physical Address is 28097
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 42694Physical Address is 20934
+41
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at29826Data at the physical Address is 29
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 13827Physical Address is 31235
+-128
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 27336Physical Address is 28872
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 53343Physical Address is 35423
+23
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at11533Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at41713Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at33890Data at the physical Address is 33
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 4894Physical Address is 13598
+4
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 57599Physical Address is 38143
+63
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 3870Physical Address is 18974
+3
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58622Physical Address is 15614
+57
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 29780Physical Address is 41300
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62553Physical Address is 345
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 2303Physical Address is 35327
+63
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51915Physical Address is 27339
+-78
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 6251Physical Address is 7531
+26
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38107Physical Address is 37339
+54
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59325Physical Address is 10429
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at61295Data at the physical Address is -37
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at26699Data at the physical Address is 18
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at51188Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59519Physical Address is 25983
+31
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at7345Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20325Physical Address is 16741
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at39633Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at1562Data at the physical Address is 1
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7580Physical Address is 6300
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8170Physical Address is 34026
+7
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62256Physical Address is 23856
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at35823Data at the physical Address is -5
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at27790Data at the physical Address is 27
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at13191Data at the physical Address is -31
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at9772Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7477Physical Address is 6197
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at44455Data at the physical Address is 105
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59546Physical Address is 26010
+58
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49347Physical Address is 8643
+48
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36539Physical Address is 14523
+-82
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at12453Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at49640Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28290Physical Address is 34946
+27
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 44817Physical Address is 13073
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8565Physical Address is 20085
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at16399Data at the physical Address is 3
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41934Physical Address is 38862
+40
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at45457Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 33856Physical Address is 42048
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 19498Physical Address is 22570
+19
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 17661Physical Address is 41213
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63829Physical Address is 21845
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at42034Data at the physical Address is 41
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28928Physical Address is 16384
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 30711Physical Address is 16375
+-3
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at8800Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at52335Data at the physical Address is 27
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at38775Data at the physical Address is -35
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 52704Physical Address is 30176
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 24380Physical Address is 1596
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 19602Physical Address is 22674
+19
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 57998Physical Address is 3214
+56
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 2919Physical Address is 11623
+-39
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at8362Data at the physical Address is 8
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 17884Physical Address is 9948
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 45737Physical Address is 7849
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 47894Physical Address is 25622
+46
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at59667Data at the physical Address is 68
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 10385Physical Address is 14737
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at52782Data at the physical Address is 51
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64416Physical Address is 5024
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 40946Physical Address is 8434
+39
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at16778Data at the physical Address is 16
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 27159Physical Address is 28695
+-123
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 24324Physical Address is 1540
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32450Physical Address is 7106
+31
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at9108Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 65305Physical Address is 30489
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 19575Physical Address is 22647
+29
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 11117Physical Address is 40045
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at65170Data at the physical Address is 63
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58013Physical Address is 3229
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 61676Physical Address is 23276
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63510Physical Address is 28182
+62
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 17458Physical Address is 41010
+17
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at54675Data at the physical Address is 100
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 1713Physical Address is 43697
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 55105Physical Address is 5185
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 65321Physical Address is 30505
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at45278Data at the physical Address is 44
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at26256Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64198Physical Address is 4550
+62
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at29441Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 1928Physical Address is 33160
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 39425Physical Address is 43265
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at32000Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28549Physical Address is 28037
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at46295Data at the physical Address is 53
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22772Physical Address is 3060
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58228Physical Address is 34164
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63525Physical Address is 28197
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32602Physical Address is 9562
+31
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 46195Physical Address is 50035
+28
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 55849Physical Address is 34601
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at46454Data at the physical Address is 45
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7487Physical Address is 6207
+79
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 33879Physical Address is 42071
+21
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 42004Physical Address is 46100
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8599Physical Address is 20119
+101
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 18641Physical Address is 5585
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at49015Data at the physical Address is -35
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 26830Physical Address is 42702
+26
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 34754Physical Address is 18114
+33
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 14668Physical Address is 33356
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38362Physical Address is 20442
+37
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38791Physical Address is 46983
+-31
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at4171Data at the physical Address is 18
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at45975Data at the physical Address is -27
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 14623Physical Address is 33311
+71
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62393Physical Address is 23993
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64658Physical Address is 6546
+63
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 10963Physical Address is 12499
+-76
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9058Physical Address is 48226
+8
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51031Physical Address is 42839
+-43
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32425Physical Address is 7081
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 45483Physical Address is 45995
+106
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 44611Physical Address is 11075
+-112
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63664Physical Address is 28336
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 54920Physical Address is 3720
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7663Physical Address is 6383
+123
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at56480Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at1489Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28438Physical Address is 27926
+27
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 65449Physical Address is 30633
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 12441Physical Address is 45209
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58530Physical Address is 15522
+57
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63570Physical Address is 28242
+62
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 26251Physical Address is 49291
+-94
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15972Physical Address is 21092
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 35826Physical Address is 44018
+34
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 5491Physical Address is 21619
+92
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at54253Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49655Physical Address is 45559
+125
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at5868Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20163Physical Address is 40643
+-80
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51079Physical Address is 42887
+-31
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21398Physical Address is 9110
+20
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32756Physical Address is 9716
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64196Physical Address is 4548
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 43218Physical Address is 17618
+42
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at21583Data at the physical Address is 19
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at25086Data at the physical Address is 24
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 45515Physical Address is 46027
+114
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 12893Physical Address is 30301
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at22914Data at the physical Address is 22
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58969Physical Address is 14937
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20094Physical Address is 40574
+19
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at13730Data at the physical Address is 13
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at44059Data at the physical Address is 6
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28931Physical Address is 16387
+64
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 13533Physical Address is 36317
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at33134Data at the physical Address is 32
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28483Physical Address is 27971
+-48
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 1220Physical Address is 40900
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38174Physical Address is 20254
+37
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 53502Physical Address is 35582
+52
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 43328Physical Address is 29504
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 4970Physical Address is 13674
+4
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8090Physical Address is 33946
+7
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at2661Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at53903Data at the physical Address is -93
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 11025Physical Address is 39953
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 26627Physical Address is 42499
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 18117Physical Address is 18885
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 14505Physical Address is 5801
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 61528Physical Address is 23128
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20423Physical Address is 16839
+-15
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 26962Physical Address is 26962
+26
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36392Physical Address is 14376
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at11365Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 50882Physical Address is 26306
+49
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41668Physical Address is 41924
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 30497Physical Address is 16161
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at36216Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 5619Physical Address is 21747
+124
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36983Physical Address is 18295
+29
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59557Physical Address is 26021
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36663Physical Address is 35639
+-51
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36436Physical Address is 14420
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 37057Physical Address is 18369
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at23585Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at58791Data at the physical Address is 105
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at46666Data at the physical Address is 45
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64475Physical Address is 5083
+-10
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21615Physical Address is 52335
+27
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41090Physical Address is 8834
+40
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 1771Physical Address is 43755
+-70
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 47513Physical Address is 32153
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at39338Data at the physical Address is 38
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 1390Physical Address is 51566
+1
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38772Physical Address is 46964
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58149Physical Address is 34085
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7196Physical Address is 43036
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9123Physical Address is 48291
+-24
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7491Physical Address is 6211
+80
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62616Physical Address is 408
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15436Physical Address is 31820
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 17491Physical Address is 41043
+20
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 53656Physical Address is 920
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 26449Physical Address is 24401
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 34935Physical Address is 26743
+29
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 19864Physical Address is 36504
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51388Physical Address is 32700
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15155Physical Address is 32307
+-52
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64775Physical Address is 2055
+65
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 47969Physical Address is 25697
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at16315Data at the physical Address is -18
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 1342Physical Address is 51518
+1
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51185Physical Address is 42993
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 6043Physical Address is 9371
+-26
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21398Physical Address is 9110
+20
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 3273Physical Address is 40393
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9370Physical Address is 22938
+9
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at35463Data at the physical Address is -95
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28205Physical Address is 34861
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 2351Physical Address is 4655
+75
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28999Physical Address is 16455
+81
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at47699Data at the physical Address is -108
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 46870Physical Address is 19734
+45
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22311Physical Address is 11303
+-55
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at22124Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22427Physical Address is 11419
+-26
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49344Physical Address is 8640
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23224Physical Address is 36024
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 5514Physical Address is 21642
+5
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at20504Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at376Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 2014Physical Address is 33246
+1
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38700Physical Address is 46892
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 13098Physical Address is 44330
+12
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62435Physical Address is 24035
+-8
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 48046Physical Address is 25774
+46
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63464Physical Address is 17128
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 12798Physical Address is 31230
+12
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51178Physical Address is 42986
+49
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8627Physical Address is 20147
+108
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 27083Physical Address is 27083
+114
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 47198Physical Address is 29790
+46
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at44021Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32792Physical Address is 4120
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 43996Physical Address is 57564
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41126Physical Address is 8870
+40
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64244Physical Address is 4596
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 37047Physical Address is 18359
+45
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at60281Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 52904Physical Address is 47784
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at7768Data at the physical Address is 0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at55359Data at the physical Address is 15
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 3230Physical Address is 40350
+3
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 44813Physical Address is 13069
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 4116Physical Address is 50708
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 65222Physical Address is 48582
+63
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28083Physical Address is 3507
+108
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 60660Physical Address is 7412
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at39Data at the physical Address is 9
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 328Physical Address is 57160
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 47868Physical Address is 56572
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 13009Physical Address is 30417
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22378Physical Address is 11370
+21
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 39304Physical Address is 55688
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 11171Physical Address is 40099
+-24
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8079Physical Address is 33935
+-29
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 52879Physical Address is 47759
+-93
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 5123Physical Address is 15107
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at4356Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 45745Physical Address is 7857
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32952Physical Address is 4280
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 4657Physical Address is 27697
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 24142Physical Address is 33614
+23
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23319Physical Address is 20503
+-59
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 13607Physical Address is 53031
+73
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 46304Physical Address is 50144
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 17677Physical Address is 9741
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59691Physical Address is 47403
+74
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 50967Physical Address is 42775
+-59
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7817Physical Address is 57993
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8545Physical Address is 20065
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 55297Physical Address is 58113
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 52954Physical Address is 47834
+51
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 39720Physical Address is 38184
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 18455Physical Address is 5399
+5
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at30349Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63270Physical Address is 16934
+61
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 27156Physical Address is 28692
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20614Physical Address is 56966
+20
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 19372Physical Address is 14252
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 48689Physical Address is 32817
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49386Physical Address is 8682
+48
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 50584Physical Address is 18584
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51936Physical Address is 27360
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 34705Physical Address is 18065
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 13653Physical Address is 53077
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at50077Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 54518Physical Address is 19446
+53
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41482Physical Address is 41738
+40
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 4169Physical Address is 50761
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36118Physical Address is 54550
+35
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at9584Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 18490Physical Address is 5434
+18
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 55420Physical Address is 58236
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 5708Physical Address is 52044
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23506Physical Address is 20690
+22
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15391Physical Address is 31775
+7
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36368Physical Address is 14352
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38976Physical Address is 3904
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 50406Physical Address is 14054
+49
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49236Physical Address is 8532
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 65035Physical Address is 48395
+-126
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 30120Physical Address is 680
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62551Physical Address is 343
+21
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 46809Physical Address is 55513
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21687Physical Address is 52407
+45
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 53839Physical Address is 54095
+-109
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 2098Physical Address is 35122
+2
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 12364Physical Address is 45132
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 45366Physical Address is 45878
+44
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 50437Physical Address is 18437
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36675Physical Address is 35651
+-48
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 55382Physical Address is 58198
+54
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at11846Data at the physical Address is 11
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49127Physical Address is 50663
+-7
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 19900Physical Address is 36540
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20554Physical Address is 56906
+20
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 19219Physical Address is 14099
+-60
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51483Physical Address is 15899
+70
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58090Physical Address is 3306
+56
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 39074Physical Address is 4002
+38
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 16060Physical Address is 21180
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 10447Physical Address is 14799
+51
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 54169Physical Address is 51865
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20634Physical Address is 56986
+20
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 57555Physical Address is 38099
+52
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 61210Physical Address is 42266
+59
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 269Physical Address is 57101
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 33154Physical Address is 53634
+32
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64487Physical Address is 5095
+-7
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 61223Physical Address is 42279
+-55
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 47292Physical Address is 29884
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21852Physical Address is 24156
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 5281Physical Address is 15265
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 45912Physical Address is 51032
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32532Physical Address is 9492
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63067Physical Address is 22107
+-106
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41683Physical Address is 41939
+-76
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20981Physical Address is 39157
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 33881Physical Address is 42073
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41785Physical Address is 38713
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 4580Physical Address is 58852
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41389Physical Address is 25005
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28572Physical Address is 28060
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 782Physical Address is 7950
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 30273Physical Address is 58945
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62267Physical Address is 23867
+-50
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 17922Physical Address is 18690
+17
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63238Physical Address is 16902
+61
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 3308Physical Address is 40428
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 26545Physical Address is 24497
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 44395Physical Address is 44907
+90
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 39120Physical Address is 4048
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21706Physical Address is 52426
+21
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7144Physical Address is 26600
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 30244Physical Address is 58916
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 3725Physical Address is 10125
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 54632Physical Address is 48744
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 30574Physical Address is 16238
+29
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8473Physical Address is 19993
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 12386Physical Address is 45154
+12
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41114Physical Address is 8858
+40
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 57930Physical Address is 3146
+56
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15341Physical Address is 32493
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15598Physical Address is 31982
+15
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59922Physical Address is 10514
+58
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 18226Physical Address is 2354
+17
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 48162Physical Address is 17698
+47
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41250Physical Address is 24866
+40
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 1512Physical Address is 51688
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 2546Physical Address is 4850
+2
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41682Physical Address is 41938
+40
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 322Physical Address is 57154
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 880Physical Address is 8048
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20891Physical Address is 39067
+102
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 56604Physical Address is 13340
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 40166Physical Address is 1254
+39
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 26791Physical Address is 42663
+41
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 44560Physical Address is 11024
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38698Physical Address is 46890
+37
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64127Physical Address is 4479
+-97
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15028Physical Address is 24756
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38669Physical Address is 46861
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 45637Physical Address is 7749
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 43151Physical Address is 17551
+35
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9465Physical Address is 23033
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 2498Physical Address is 4802
+2
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 13978Physical Address is 31386
+13
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 16326Physical Address is 56006
+15
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51442Physical Address is 32754
+50
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 34845Physical Address is 26653
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63667Physical Address is 28339
+44
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 39370Physical Address is 55754
+38
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at55671Data at the physical Address is 93
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64496Physical Address is 5104
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7767Physical Address is 57943
+-107
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 6283Physical Address is 7563
+34
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 55884Physical Address is 34636
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 61103Physical Address is 6063
+-85
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at10184Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 39543Physical Address is 43383
+-99
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9555Physical Address is 59475
+84
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 13963Physical Address is 31371
+-94
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58975Physical Address is 14943
+-105
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 19537Physical Address is 22609
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 6101Physical Address is 9429
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41421Physical Address is 25037
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 45502Physical Address is 46014
+44
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 29328Physical Address is 37008
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8149Physical Address is 34005
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at25450Data at the physical Address is 24
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58944Physical Address is 14912
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 50666Physical Address is 18666
+49
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23084Physical Address is 35884
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36468Physical Address is 14452
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at33645Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 25002Physical Address is 52650
+24
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 53715Physical Address is 979
+116
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 60173Physical Address is 57613
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 46354Physical Address is 50194
+45
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 4708Physical Address is 27748
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28208Physical Address is 34864
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58844Physical Address is 55260
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22173Physical Address is 56733
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8535Physical Address is 20055
+85
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 42261Physical Address is 10773
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 29687Physical Address is 49655
+-3
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 37799Physical Address is 29351
+-23
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22566Physical Address is 2854
+22
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62520Physical Address is 312
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 4098Physical Address is 50690
+4
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 47999Physical Address is 25727
+-33
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49660Physical Address is 45564
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 37063Physical Address is 18375
+49
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41856Physical Address is 38784
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 5417Physical Address is 21545
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 48856Physical Address is 32984
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 10682Physical Address is 27578
+10
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22370Physical Address is 11362
+21
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63281Physical Address is 16945
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62452Physical Address is 24052
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 50532Physical Address is 18532
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9022Physical Address is 48190
+8
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59300Physical Address is 10404
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58660Physical Address is 55076
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 56401Physical Address is 51281
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8518Physical Address is 20038
+8
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63066Physical Address is 22106
+61
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63250Physical Address is 16914
+61
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 48592Physical Address is 2000
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28771Physical Address is 1379
+24
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 37673Physical Address is 29225
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 60776Physical Address is 23656
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 56438Physical Address is 51318
+55
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 60424Physical Address is 7176
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 39993Physical Address is 1081
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 56004Physical Address is 34756
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59002Physical Address is 14970
+57
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 33982Physical Address is 42174
+33
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 25498Physical Address is 60570
+24
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 57047Physical Address is 37591
+-75
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 1401Physical Address is 51577
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15130Physical Address is 32282
+14
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 42960Physical Address is 19664
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 61827Physical Address is 22403
+96
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32442Physical Address is 7098
+31
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64304Physical Address is 4912
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 30273Physical Address is 58945
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38082Physical Address is 37314
+37
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22404Physical Address is 11396
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 3808Physical Address is 10208
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 16883Physical Address is 48115
+124
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23111Physical Address is 35911
+-111
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62417Physical Address is 24017
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 60364Physical Address is 57804
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 4542Physical Address is 58814
+4
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 14829Physical Address is 33517
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 44964Physical Address is 13220
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 33924Physical Address is 42116
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 2141Physical Address is 35165
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 19245Physical Address is 14125
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 47168Physical Address is 29760
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 24048Physical Address is 39664
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 1022Physical Address is 8190
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23075Physical Address is 35875
+-120
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 24888Physical Address is 52536
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49247Physical Address is 8543
+23
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 4900Physical Address is 13604
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22656Physical Address is 2944
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at34117Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 55555Physical Address is 59907
+64
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 48947Physical Address is 50483
+-52
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59533Physical Address is 25997
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21312Physical Address is 9024
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21415Physical Address is 9127
+-23
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 813Physical Address is 7981
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 19419Physical Address is 14299
+-10
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 1999Physical Address is 33231
+-13
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20155Physical Address is 40635
+-82
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21521Physical Address is 52241
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 13670Physical Address is 53094
+13
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 19289Physical Address is 14169
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58483Physical Address is 15475
+28
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41318Physical Address is 24934
+40
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 16151Physical Address is 55831
+-59
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 13611Physical Address is 53035
+74
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21514Physical Address is 52234
+21
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 13499Physical Address is 36283
+46
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 45583Physical Address is 7695
+-125
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49013Physical Address is 50549
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64843Physical Address is 2123
+82
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63485Physical Address is 17149
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38697Physical Address is 46889
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59188Physical Address is 10292
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 24593Physical Address is 38417
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at57641Data at the physical Address is 0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36524Physical Address is 14508
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 56980Physical Address is 37524
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36810Physical Address is 35786
+35
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 6096Physical Address is 9424
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 11070Physical Address is 39998
+10
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 60124Physical Address is 10716
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 37576Physical Address is 21448
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15096Physical Address is 24824
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 45247Physical Address is 49087
+47
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32783Physical Address is 4111
+3
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58390Physical Address is 15382
+57
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 60873Physical Address is 23753
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23719Physical Address is 54951
+41
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 24385Physical Address is 1601
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22307Physical Address is 11299
+-56
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at17375Data at the physical Address is -9
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15990Physical Address is 21110
+15
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20526Physical Address is 56878
+20
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 25904Physical Address is 36656
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 42224Physical Address is 46320
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9311Physical Address is 22879
+23
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7862Physical Address is 58038
+7
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 3835Physical Address is 10235
+-66
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 30535Physical Address is 16199
+-47
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 65179Physical Address is 48539
+-90
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 57387Physical Address is 37931
+10
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63579Physical Address is 28251
+22
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 4946Physical Address is 13650
+4
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9037Physical Address is 48205
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 61033Physical Address is 5993
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 55543Physical Address is 58359
+61
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 50361Physical Address is 14009
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 6480Physical Address is 29008
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 14042Physical Address is 31450
+13
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21531Physical Address is 52251
+6
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 39195Physical Address is 55579
+70
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 37511Physical Address is 21383
+-95
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23696Physical Address is 54928
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 27440Physical Address is 15664
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28201Physical Address is 34857
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23072Physical Address is 35872
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7814Physical Address is 57990
+7
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 6552Physical Address is 29080
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 43637Physical Address is 12661
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 35113Physical Address is 39721
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 34890Physical Address is 26698
+34
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 61297Physical Address is 42353
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 45633Physical Address is 7745
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 61431Physical Address is 42487
+-3
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 46032Physical Address is 51152
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at18774Data at the physical Address is 18
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62991Physical Address is 22031
+-125
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28059Physical Address is 3483
+102
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 35229Physical Address is 39837
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51230Physical Address is 32542
+50
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 14405Physical Address is 5701
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 52242Physical Address is 46610
+51
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 43153Physical Address is 17553
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 2709Physical Address is 53909
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 47963Physical Address is 25691
+-42
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36943Physical Address is 18255
+19
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 54066Physical Address is 51762
+52
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 10054Physical Address is 60230
+9
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 43051Physical Address is 17451
+10
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 11525Physical Address is 41477
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 17684Physical Address is 9748
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41681Physical Address is 41937
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 27883Physical Address is 44267
+58
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 56909Physical Address is 37453
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 45772Physical Address is 7884
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 27496Physical Address is 15720
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 46842Physical Address is 55546
+45
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38734Physical Address is 46926
+37
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28972Physical Address is 16428
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59684Physical Address is 47396
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 11384Physical Address is 54392
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21018Physical Address is 37658
+20
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 2192Physical Address is 35216
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 18384Physical Address is 2512
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 13464Physical Address is 36248
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at31018Data at the physical Address is 30
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 62958Physical Address is 28654
+61
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 30611Physical Address is 16275
+-28
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 1913Physical Address is 33145
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 18904Physical Address is 61912
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 26773Physical Address is 42645
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 55491Physical Address is 58307
+48
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21899Physical Address is 24203
+98
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64413Physical Address is 5021
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 47134Physical Address is 29726
+46
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23172Physical Address is 35972
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7262Physical Address is 43102
+7
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 12705Physical Address is 31137
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7522Physical Address is 6242
+7
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58815Physical Address is 55231
+111
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 34916Physical Address is 26724
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 3802Physical Address is 10202
+3
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58008Physical Address is 3224
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 1239Physical Address is 40919
+53
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63947Physical Address is 21963
+114
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 381Physical Address is 57213
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 60734Physical Address is 23614
+59
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 48769Physical Address is 32897
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41938Physical Address is 38866
+40
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38025Physical Address is 37257
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 55099Physical Address is 5179
+-50
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 56691Physical Address is 13427
+92
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 39530Physical Address is 43370
+38
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59003Physical Address is 14971
+-98
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 6029Physical Address is 9357
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20920Physical Address is 39096
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8077Physical Address is 33933
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 42633Physical Address is 20873
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 17443Physical Address is 40995
+8
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 53570Physical Address is 834
+52
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22833Physical Address is 52785
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 3782Physical Address is 10182
+3
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 47758Physical Address is 56462
+46
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22136Physical Address is 56696
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22427Physical Address is 11419
+-26
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23867Physical Address is 39483
+78
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59968Physical Address is 10560
+0
+emptynot emptypage fault exception has occured
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid. PAge fault resolved at62166Data at the physical Address is 60
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 6972Physical Address is 26428
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63684Physical Address is 28356
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 46388Physical Address is 50228
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41942Physical Address is 38870
+40
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36524Physical Address is 14508
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9323Physical Address is 22891
+26
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 31114Physical Address is 62090
+30
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 22345Physical Address is 11337
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 46463Physical Address is 50303
+95
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 54671Physical Address is 48783
+99
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9214Physical Address is 48382
+8
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7257Physical Address is 43097
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 33150Physical Address is 53630
+32
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 41565Physical Address is 41821
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 26214Physical Address is 49254
+25
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 3595Physical Address is 9995
+-126
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 17932Physical Address is 18700
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 34660Physical Address is 18020
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51961Physical Address is 27385
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58634Physical Address is 55050
+57
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 57990Physical Address is 3206
+56
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 28848Physical Address is 1456
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49920Physical Address is 59136
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 18351Physical Address is 2479
+-21
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 53669Physical Address is 933
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 33996Physical Address is 42188
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 6741Physical Address is 6741
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 64098Physical Address is 4450
+62
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 606Physical Address is 17246
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 27383Physical Address is 28919
+-67
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63140Physical Address is 22180
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 32228Physical Address is 49892
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63437Physical Address is 17101
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 29085Physical Address is 16541
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 65080Physical Address is 48440
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 38753Physical Address is 46945
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 16041Physical Address is 21161
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9041Physical Address is 48209
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 42090Physical Address is 46186
+41
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 46388Physical Address is 50228
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 63650Physical Address is 28322
+62
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36636Physical Address is 35612
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21947Physical Address is 24251
+110
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 19833Physical Address is 36473
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 36464Physical Address is 14448
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8541Physical Address is 20061
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 12712Physical Address is 31144
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 48955Physical Address is 50491
+-50
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 39206Physical Address is 55590
+38
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 15578Physical Address is 31962
+15
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49205Physical Address is 8501
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7731Physical Address is 57907
+-116
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 43046Physical Address is 17446
+42
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 60498Physical Address is 7250
+59
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9237Physical Address is 22805
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 47706Physical Address is 56410
+46
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 43973Physical Address is 57541
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 42008Physical Address is 46104
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 27460Physical Address is 15684
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 24999Physical Address is 52647
+105
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 51933Physical Address is 27357
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 34070Physical Address is 60950
+33
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 65155Physical Address is 48515
+-96
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 59955Physical Address is 10547
+-116
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9277Physical Address is 22845
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 20420Physical Address is 16836
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 44860Physical Address is 13116
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 50992Physical Address is 42800
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 10583Physical Address is 27479
+85
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 57751Physical Address is 61335
+101
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23195Physical Address is 35995
+-90
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 27227Physical Address is 28763
+-106
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 42816Physical Address is 19520
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 58219Physical Address is 34155
+-38
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 37606Physical Address is 21478
+36
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 18426Physical Address is 2554
+17
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 21238Physical Address is 37878
+20
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 11983Physical Address is 59855
+-77
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 48394Physical Address is 1802
+47
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 11036Physical Address is 39964
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 30557Physical Address is 16221
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 23453Physical Address is 20637
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 49847Physical Address is 31671
+-83
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 30032Physical Address is 592
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 48065Physical Address is 25793
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 6957Physical Address is 26413
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 2301Physical Address is 35325
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 7736Physical Address is 57912
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 31260Physical Address is 23324
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 17071Physical Address is 175
+-85
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 8940Physical Address is 46572
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 9929Physical Address is 44745
+0
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 45563Physical Address is 46075
+126
+Translation lookaisde buffer size16
+im in the translation lookaside buffer Hello this is sid.Logical Address 12107Physical Address is 2635
+-46
+Number of pagefaults ==  244
+Number of tlb hits == 63
